@@ -87,7 +87,7 @@ Este proyecto fue desarrollado para fortalecer conocimientos en:
 
 ---
 
-## 🔮 Mejoras Futuras
+## Mejoras Futuras
 
 * Integración con MySQL.
 * Persistencia de datos.
